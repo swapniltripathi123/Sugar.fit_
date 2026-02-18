@@ -8,10 +8,6 @@ This repository goes beyond basic CRUD implementation, focusing on **operational
 
 ## 1. How to Run
 
-### Prerequisites
-* Java 17 or higher
-* Maven 3.8+ (or use the included wrapper)
-
 ### Local Development
 Clone the repository and run the application using the Maven wrapper:
 ```bash
